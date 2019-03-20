@@ -2,9 +2,9 @@
 def display_board(squares)
 
 system 'clear'
-4   puts "#{squares[1]}|#{squares[2]}|#{squares[3]}"
+4   puts "| |"
 5   puts "-----"
-6   puts "#{squares[4]}|#{squares[5]}|#{squares[6]}"
+6   puts "| | "
 7   puts "-----"
-8   puts "#{squares[7]}|#{squares[8]}|#{squares[9]}"
+8   puts "| | "
 9 end
